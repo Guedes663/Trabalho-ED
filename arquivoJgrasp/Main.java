@@ -4,7 +4,6 @@ public class Main {
 
     gameManager.getSize();
     gameManager.fillMatriz();
-    gameManager.printMatriz();
-    gameManager.mustContinue();
+    gameManager.selectGame();
   }
 }
